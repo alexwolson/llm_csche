@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook that demonstrates how to fine-tune a
 
 You can run the notebook directly in Google Colab by clicking on the following link:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alexwolson/llm_csche/blob/main/SMILES_to_Chemical_Formula_Translator_Fine_Tuning_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/llm_csche/blob/main/SMILES_to_Chemical_Formula_Translator_Fine_Tuning_Tutorial.ipynb)
 
 ## Overview
 
@@ -85,7 +85,7 @@ To run the notebook, you can either clone this repository and open the notebook 
 
 You can open the notebook directly in Google Colab by clicking on the following link:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alexwolson/llm_csche/blob/main/SMILES_to_Chemical_Formula_Translator_Fine_Tuning_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/llm_csche/blob/main/SMILES_to_Chemical_Formula_Translator_Fine_Tuning_Tutorial.ipynb)
 
 ## Workshop Objectives
 
