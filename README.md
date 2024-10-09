@@ -1,3 +1,6 @@
+# Link: https://github.com/alexwolson/llm_csche
+# Email: alex.olson@utoronto.ca
+
 # SMILES to Chemical Formula Translator - Fine-Tuning Tutorial
 
 This repository contains a Jupyter notebook that demonstrates how to fine-tune a pre-trained language model to translate SMILES (Simplified Molecular Input Line Entry System) strings into chemical formulas. This tutorial was designed as part of a workshop, introducing participants to the concept of transfer learning in the context of chemical informatics.
